@@ -23,3 +23,11 @@ a{
 .subtext{
     font-size: 40px;
 }
+
+button{
+    border: 1px solid white;
+    color: white;
+    background-color: transparent;
+    
+
+}
