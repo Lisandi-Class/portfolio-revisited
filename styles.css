@@ -17,7 +17,8 @@
 
 
 a{
-    color:whitesmoke
+    color:whitesmoke;
+    text-decoration: none;
 }
 
 .subtext{
@@ -25,9 +26,13 @@ a{
 }
 
 button{
-    border: 1px solid white;
-    color: white;
+    border: 5px solid whitesmoke;
+    color: whitesmoke;
     background-color: transparent;
-    
-
+    border-radius: 3px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 15px;
 }
